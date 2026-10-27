@@ -4,3 +4,4 @@
 2-bring_me_home: changes the working directory to the user's home directory
 3-listfiles: displays the contents of the current directory in long format
 4-listmorefiles: displays the contents of the current directory in long format, including hidden files
+5-listfilesdigitonly: displays the contents of the current directory in long format with numeric user and group IDs, including hidden files
