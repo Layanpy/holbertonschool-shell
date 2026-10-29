@@ -1,2 +1,2 @@
-# io_redirections_and_filters
-Shell scripts about I/O redirections and filters.
+# I/O Redirections and Filters
+Shell scripts practicing I/O redirections and filters.
